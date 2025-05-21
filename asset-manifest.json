@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tid-til-overtagelse/static/css/main.679bb4c0.css",
+    "main.js": "/tid-til-overtagelse/static/js/main.b8d005a3.js",
+    "static/js/453.4e8776d2.chunk.js": "/tid-til-overtagelse/static/js/453.4e8776d2.chunk.js",
+    "static/media/logo.svg": "/tid-til-overtagelse/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tid-til-overtagelse/index.html",
+    "main.679bb4c0.css.map": "/tid-til-overtagelse/static/css/main.679bb4c0.css.map",
+    "main.b8d005a3.js.map": "/tid-til-overtagelse/static/js/main.b8d005a3.js.map",
+    "453.4e8776d2.chunk.js.map": "/tid-til-overtagelse/static/js/453.4e8776d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679bb4c0.css",
+    "static/js/main.b8d005a3.js"
+  ]
+}
